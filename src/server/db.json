@@ -1,0 +1,108 @@
+{
+  "Product": [
+    {
+      "id": 1,
+      "name": "lenova",
+      "model": "15ITL05",
+      "photo": "https://psrefstuff.lenovo.com/syspool//Sys/Image/IdeaPad/IdeaPad_5_15ITL05/IdeaPad_5_15ITL05_CT1_03.png",
+      "prize": "25000",
+      "title": "gaming laptop",
+      "groupID": "3"
+    },
+    {
+      "id": 2,
+      "name": "Hp ",
+      "model": "pavilion Ryzen 5 15-ec2004Ax",
+      "photo": "https://cdn.shopify.com/s/files/1/0098/7247/4167/products/HPPavilionGaming15-EC2501-17.jpg?v=1674926354",
+      "prize": "60500",
+      "title": "gaming laptop",
+      "groupID": "1"
+    },
+    {
+      "id": 3,
+      "name": "Apple ",
+      "model": "MacBook Pro M2 Max MNWE3HN/A",
+      "photo": "https://imagedelivery.net/JAV112JY973Crznn4xb8Sg/8c11633a-30b4-4def-3a8e-9c7f90b47a00/public",
+      "prize": "349900",
+      "title": "Premium laptop",
+      "groupID": "1"
+    },
+    {
+      "id": 4,
+      "name": "Samsung",
+      "model": "S22 ultra 5g",
+      "photo": "https://mobitech.ba/wp-content/uploads/2022/05/Samsung-Galaxy-S22-Ultra.png",
+      "prize": "95200",
+      "title": "Smartphone",
+      "groupID": "3"
+    },
+    {
+      "id": 5,
+      "name": "Apple",
+      "model": "iPhone 14",
+      "photo": "https://hoangtusaigon.vn/wp-content/uploads/2022/12/siver.png",
+      "prize": "82999",
+      "title": "Smartphone",
+      "groupID": "3"
+    },
+    {
+      "id": 6,
+      "name": "OnePlus",
+      "model": "11r 5g",
+      "photo": "https://oasis.opstatics.com/content/dam/oasis/page/2023/in/oneplus-10t/specs/10r-blue.png",
+      "prize": "44819",
+      "title": "Smartphone",
+      "groupID": "3"
+    },
+    {
+      "id": 7,
+      "name": "Sony",
+      "model": "Bravia ",
+      "photo": "https://www.pngitem.com/pimgs/m/68-685747_transparent-flatscreen-tv-png-sony-x8500f-43-inch.png",
+      "prize": "25000",
+      "title": "smart tv",
+      "groupID": "2"
+    },
+    {
+      "id": 8,
+      "name": "redmi",
+      "model": "LED smart WebOS TV",
+      "photo": "https://w7.pngwing.com/pngs/680/377/png-transparent-led-backlit-lcd-lg-electronics-television-1080p-tv-rectangle-display-advertising-media.png",
+      "prize": "13990",
+      "title": "smart tv",
+      "groupID": "2"
+    },
+    {
+      "id": 9,
+      "name": "TOSHIBA",
+      "model": "C350LP",
+      "photo": "https://www.pngitem.com/pimgs/m/168-1681631_toshiba-55u5863da-led-tv-hd-png-download.png",
+      "prize": "38999",
+      "title": "smart tv",
+      "groupID": "2"
+    },
+    {
+      "id": "10",
+      "name": "sony",
+      "model": "xperia",
+      "prize": "20000",
+      "title": "smartphone",
+      "groupID": "3",
+      "photo": "https://www.seekpng.com/png/detail/86-865171_sony-xperia-m-sony-xperia-price-in-south.png"
+    }
+  ],
+  "group": [
+    {
+      "id": "1",
+      "name": "laptop"
+    },
+    {
+      "id": "2",
+      "name": "television"
+    },
+    {
+      "id": "3",
+      "name": "mobile"
+    }
+  ]
+}

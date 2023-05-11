@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Backend for MyStore using nodejs and express",
+  "main": "index.js",
+  "scripts": {
+    "start":"json-server  --watch db.json --port 3000"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "and",
+    "express"
+  ],
+  "author": "Ashok",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

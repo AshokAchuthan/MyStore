@@ -1,0 +1,39 @@
+#moving-text {
+    position: absolute;
+    left: 0px;
+    top: 50px;
+    font-size: 24px;
+  }
+  .card{
+   
+    
+    justify-content: space-around;
+    transition: 1s;
+  }
+  .card:hover{
+    box-shadow: 2px 2px 2px ;
+    color: rgb(47, 98, 122);
+    transform: scale(1.1);
+  }
+  
+  .ha{
+    font-size: 80px;
+    color: rgb(246, 250, 23);
+    font-family: cursive, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  /* .card-body{
+   transition: 1s;
+   justify-content: space-around;
+  }
+
+  .card-body:hover{
+    transform: scale(1.1);
+    
+    
+  } */
+  .search1{
+    background-color: rgba(0, 0, 0, 0.411);
+    
+  }
+  
